@@ -16,6 +16,6 @@ Then, please run:
 
 Finally, you can run the following command in your terminal:
 
-```./over```
+`./over`
 
 Enjoy it\~
